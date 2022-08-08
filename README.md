@@ -1,4 +1,4 @@
-# trabalhos
+# Java
 
 1) Escreva um algoritmo para imprimir os 1000 primeiros números inteiros.
 2) Escreva um algoritmo que calcule e imprima a tabuada de N (1 a 10).
